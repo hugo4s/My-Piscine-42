@@ -27,27 +27,27 @@ This repository contains code developed at **42 Piscine**, from **29/07/2024** t
 	
 | Shell Project | Grade | Evaluation Information |
 | :--- | :--- | :--- |
-| [Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine Shell 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2001) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine Shell 00](https://github.com/hugo4s/My-Piscine-42/tree/main/Shell00) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine Shell 01](https://github.com/hugo4s/My-Piscine-42/tree/main/Shell01) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
 
 | C Project | Grade | Evaluation Information |
 | :--- | :--- | :--- |
-| [Piscine C 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2000) | <img src="https://img.shields.io/badge/85%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2001) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 02](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2002) | <img src="https://img.shields.io/badge/75%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 03](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2003) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 04](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2004) | <img src="https://img.shields.io/badge/70%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 05](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2005) | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 06](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2006) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 07](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2007) | <img src="https://img.shields.io/badge/60%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 08](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2008) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 09](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2008) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 11](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2008) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine BSQ](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2008) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 00](https://github.com/hugo4s/My-Piscine-42/tree/main/C00) | <img src="https://img.shields.io/badge/85%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 01](https://github.com/hugo4s/My-Piscine-42/tree/main/C01) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 02](https://github.com/hugo4s/My-Piscine-42/tree/main/C02) | <img src="https://img.shields.io/badge/75%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 03](https://github.com/hugo4s/My-Piscine-42/tree/main/C03) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 04](https://github.com/hugo4s/My-Piscine-42/tree/main/C04) | <img src="https://img.shields.io/badge/70%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 05](https://github.com/hugo4s/My-Piscine-42/tree/main/C05) | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 06](https://github.com/hugo4s/My-Piscine-42/tree/main/C06) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 07](https://github.com/hugo4s/My-Piscine-42/tree/main/C07) | <img src="https://img.shields.io/badge/60%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 08](https://github.com/hugo4s/My-Piscine-42/tree/main/C08) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 09](https://github.com/hugo4s/My-Piscine-42/tree/main/C09) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 11](https://github.com/hugo4s/My-Piscine-42/tree/main/C11) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine BSQ](BSQ) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `30 mins` `moulinette` |
 
 | Rush Project | Grade | Evaluation Information |
 | :--- | :--- | :--- |
-| [Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2000) | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red"/> | `1 lifeguard` `30 mins` |
+| [Piscine Rush 00](https://github.com/hugo4s/My-Piscine-42/tree/main/Rush00) | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red"/> | `1 lifeguard` `30 mins` |
 
 </div>
 	
