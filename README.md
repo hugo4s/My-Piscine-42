@@ -47,7 +47,7 @@ This repository contains code developed at **42 Piscine**, from **29/07/2024** t
 
 | Rush Project | Grade | Evaluation Information |
 | :--- | :--- | :--- |
-| [Piscine Rush 00](https://github.com/hugo4s/My-Piscine-42/tree/main/Rush00) | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red"/> | `1 lifeguard` `30 mins` |
+| [Piscine Rush 00](https://github.com/hugo4s/My-Piscine-42/tree/main/Rush00) | 125 / 100 | `1 lifeguard` `30 mins` |
 
 </div>
 	
